@@ -194,6 +194,7 @@ const workExperiences = {
         "Berkontribusi dalam implemntasi keamanan jaringan dan sistem perusahaan melalui pengunaan teknologi",
         "Menganalisis dan melaporkan pontesi ancaman keamanan,termasuk serangan malware dan penyusupan jaringan",
         "Memberikan pelatihan dan edukasi tentang praktik keamanan cyber kepada staf dan karyawan perusahaan",
+      ]
     },
     {
       role: "Software Engineer Intern",

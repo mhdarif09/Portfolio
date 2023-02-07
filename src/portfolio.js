@@ -181,8 +181,8 @@ const workExperiences = {
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
         "Berkontribusi Dalam Pengembangan Sistem Informasi Yayasan MI Darussalam Palembang ",
-        "Berpartisipasi dalam proses pengembangan,prencenaan dan pengujian aplikasi berbasis website"
-        "Mengoptimalkan performa aplikasi dengan melakukan analisis dan penyelesaian masalah teknis"
+        "Berpartisipasi dalam proses pengembangan,prencenaan dan pengujian aplikasi berbasis website",
+        "Mengoptimalkan performa aplikasi dengan melakukan analisis dan penyelesaian masalah teknis",
         "Terus mempelajari dan meningkatkan keterampilan dalam bidang software engineering untuk menjadi lebih baik dalam berkontribusi bagi yayasan Mi Darussalam"
       ]
     },

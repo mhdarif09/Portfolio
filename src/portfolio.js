@@ -186,11 +186,14 @@ const workExperiences = {
       ]
     },
     {
-      role: "Magang Cyber Security",
+      role: "Cyber Security Imtern",
       company: "Umiversity Bina Darma",
       companylogo: require("./assets/images/binadarma.png"),
       date: "May 2022 – May 2023",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      descBullets: [
+        "Berkontribusi dalam implemntasi keamanan jaringan dan sistem perusahaan melalui pengunaan teknologi",
+        "Menganalisis dan melaporkan pontesi ancaman keamanan,termasuk serangan malware dan penyusupan jaringan",
+        "Memberikan pelatihan dan edukasi tentang praktik keamanan cyber kepada staf dan karyawan perusahaan",
     },
     {
       role: "Software Engineer Intern",

@@ -195,7 +195,6 @@ const workExperiences = {
         "Menganalisis dan melaporkan pontesi ancaman keamanan,termasuk serangan malware dan penyusupan jaringan",
         "Memberikan pelatihan dan edukasi tentang praktik keamanan cyber kepada staf dan karyawan perusahaan",
       ]
-    },
 };
 
 /* Your Open Source Section to View Your Github Pinned Projects

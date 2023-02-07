@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Muhammad Arif Rahmad S",
+  username: "Muhammad Arif",
   title: "Hi all, I'm Muhammad Arif Rahmad S",
   subTitle: emoji(
     "A passionate Full Stack Software Developer and Cyber Security🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."

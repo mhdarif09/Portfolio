@@ -195,8 +195,16 @@ const workExperiences = {
         "Menganalisis dan melaporkan pontesi ancaman keamanan,termasuk serangan malware dan penyusupan jaringan",
         "Memberikan pelatihan dan edukasi tentang praktik keamanan cyber kepada staf dan karyawan perusahaan",
       ]
+    },
+     {
+      role: "Software Engineer Intern",
+      company: "Airbnb",
+      companylogo: require("./assets/images/airbnbLogo.png"),
+      date: "Jan 2015 – Sep 2015",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
-    };
+  ]
+};
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
 

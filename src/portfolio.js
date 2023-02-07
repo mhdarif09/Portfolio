@@ -189,7 +189,7 @@ const workExperiences = {
       role: "Cyber Security Imtern",
       company: "Umiversity Bina Darma",
       companylogo: require("./assets/images/binadarma.png"),
-      date: "May 2022 – May 2023",
+      date: "May 2022 – July 2023",
       descBullets: [
         "Berkontribusi dalam implemntasi keamanan jaringan dan sistem perusahaan melalui pengunaan teknologi",
         "Menganalisis dan melaporkan pontesi ancaman keamanan,termasuk serangan malware dan penyusupan jaringan",

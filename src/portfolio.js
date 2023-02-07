@@ -233,13 +233,13 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/sriwijayacyber.png"),
+      projectName: "Sriwijaya Cyber",
+      projectDesc: "Tempat Bootcamp Cyber Security,Programming dan Network ",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "http://sriwijayacyber.com/"
         }
       ]
     }

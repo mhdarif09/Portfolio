@@ -256,50 +256,50 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Indonesia Digital Trabe Finalist",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "Tempat Ajang Lomba Mendirikan startup yang diselengarakan oleh bumn dan didukung oleh najwa shihab dll.",
+      image: require("./assets/images/idt.jpg"),
+      imageAlt: "IDT Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1q_NQAHaFct43tt_qYL_9t9ycCtb2hpjL/view?usp=share_link"
         },
         {
           name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1q_NQAHaFct43tt_qYL_9t9ycCtb2hpjL/view?usp=share_link"
         },
         {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "Blog",
+          url: "https://drive.google.com/file/d/1q_NQAHaFct43tt_qYL_9t9ycCtb2hpjL/view?usp=share_link"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Shoppe Code Languange",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+        "National Data Science Challange 2020.",
+      image: require("./assets/images/SHOPPE.jpg"),
+      imageAlt: "Shoppe Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "Certification",
+          url: "https://drive.google.com/file/d/1kmFgGAs1_gOhzxdwQD9J0v8SPDU13vwX/view?usp=sharing"
         }
       ]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      title: "Web App Developer",
+      subtitle: "Completed Certifcation from PGRI for ME",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", url: ""},
         {
           name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          url: "https://bangsin.id/"
         }
       ]
     }

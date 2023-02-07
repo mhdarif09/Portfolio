@@ -127,7 +127,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University Bina Darma",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/binadarma.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2022 - April 2026",
       desc: "Participated in the research of XXX and published 3 papers.",

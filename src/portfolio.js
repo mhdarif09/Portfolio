@@ -175,20 +175,22 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
-      company: "Facebook",
+      company: "MI DARUSSALAM PALEMBANG",
       companylogo: require("./assets/images/midarussalam.png"),
       date: "June 2018 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Berkontribusi Dalam Pengembangan Sistem Informasi Yayasan MI Darussalam Palembang ",
+        "Berpartisipasi dalam proses pengembangan,prencenaan dan pengujian aplikasi berbasis website"
+        "Mengoptimalkan performa aplikasi dengan melakukan analisis dan penyelesaian masalah teknis"
+        "Terus mempelajari dan meningkatkan keterampilan dalam bidang software engineering untuk menjadi lebih baik dalam berkontribusi bagi yayasan Mi Darussalam"
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
+      role: "Magang Cyber Security",
+      company: "Umiversity Bina Darma",
+      companylogo: require("./assets/images/binadarma.png"),
+      date: "May 2022 – May 2023",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {

@@ -358,7 +358,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
+    "https://anchor.fm/muhammad-arif709/embed/episodes/Cyber-Security-Podcast-e1ukma6"
   ],
   display: true // Set false to hide this section, defaults to true
 };

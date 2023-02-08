@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Muhammad Arif",
+  username: "MARS",
   title: "Hi all, I'm Muhammad Arif Rahmad S",
   subTitle: emoji(
     "A passionate Full Stack Software Developer and Cyber Security🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
@@ -179,21 +179,21 @@ const workExperiences = {
       companylogo: require("./assets/images/midarussalam.png"),
       date: "June 2018 – Present",
       descBullets: [
-        "Berkontribusi Dalam Pengembangan Sistem Informasi Yayasan MI Darussalam Palembang ",
-        "Berpartisipasi dalam proses pengembangan,pengujian aplikasi berbasis website",
-        "Mengoptimalkan performa aplikasi dengan melakukan analisis dan penyelesaian masalah teknis",
-        "Terus mempelajari dan meningkatkan keterampilan dalam bidang software engineering untuk menjadi lebih baik dalam berkontribusi bagi yayasan Mi Darussalam"
+        "Contributing to the Development of Information Systems for the MI Darussalam Palembang Foundation",
+        "Participate in the process of developing, testing web-based applications",
+        "Optimizing application performance by analyzing and solving technical problems",
+        "Continue to learn and improve skills in the field of software engineering to be better at contributing to the Mi Darussalam foundation"
       ]
     },
     {
-      role: "Cyber Security Imtern",
+      role: "Cyber Security Intern",
       company: "Umiversity Bina Darma",
       companylogo: require("./assets/images/binadarma.png"),
       date: "May 2022 – July 2023",
       descBullets: [
-        "Berkontribusi dalam implemntasi keamanan jaringan dan sistem perusahaan melalui pengunaan teknologi",
-        "Menganalisis dan melaporkan pontesi ancaman keamanan,termasuk serangan malware dan penyusupan jaringan",
-        "Memberikan pelatihan dan edukasi tentang praktik keamanan cyber kepada staf dan karyawan perusahaan",
+        "Contribute to the implementation of corporate network and system security through the use of technology",
+        "Analyze and report potential security threats, including malware attacks and network intrusions",
+        "Provide training and education on cyber security practices to company staff and employees",
       ]
     },
      {
@@ -234,7 +234,7 @@ const bigProjects = {
     {
       image: require("./assets/images/sriwijayacyber.png"),
       projectName: "Sriwijaya Cyber",
-      projectDesc: "Tempat Bootcamp Cyber Security,Programming dan Network ",
+      projectDesc: "Bootcamp for Cyber Security, Programming and Networking ",
       footerLink: [
         {
           name: "Visit Website",
@@ -258,7 +258,7 @@ const achievementSection = {
     {
       title: "Indonesia Digital Trabe Finalist",
       subtitle:
-        "Tempat Ajang Lomba Mendirikan startup yang diselengarakan oleh bumn dan didukung oleh najwa shihab dll.",
+        "Venue for the Competition Establishing startups organized by state-owned enterprises and supported by Najwa Shihab etc.",
       image: require("./assets/images/idt.jpg"),
       imageAlt: "IDT Logo",
       footerLink: [
